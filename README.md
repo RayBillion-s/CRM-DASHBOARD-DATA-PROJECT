@@ -13,7 +13,7 @@ To develop a CRM dashboard using Power BI that empowers stakeholders to spool, v
 **Solution Overview**
 The proposed CRM will include:
 1. Interactive Dashboards:
-Visualizing policy counts for General (320) and Life Business (3,557).
+Visualizing policy counts for General  and Life Business .
 Turnaround time (TAT) metrics with details on dates received, registered, and concluded.
 2. Dynamic Data Filters:
 Enabling stakeholders to filter by policy type, transaction date, and other relevant fields.
